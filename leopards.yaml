@@ -3,10 +3,14 @@ team: Leopards
 manager: Nora
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 coach: nicholas
 =======
 coach: Melisaa
 >>>>>>> d168450 (Edit leopards)
+=======
+coach: Melisaa
+>>>>>>> conflict2
 
 members:
 - Linda
